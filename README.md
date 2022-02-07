@@ -1,5 +1,6 @@
 SET UP INSTRUCTIONS
-You will need DOcker running on your machine.
+
+You will need Docker running on your machine.
 THis project uses Swagger (OpenAPi), Symfony and NuxtJs for frontend.
 
 - git clone https://github.com/edouardkombo/gaming-api-nuxtjs
