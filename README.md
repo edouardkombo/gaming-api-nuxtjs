@@ -1,4 +1,4 @@
-SET UP INSTRUCTIONS
+# SET UP INSTRUCTIONS
 
 You will need Docker running on your machine.
 THis project uses Swagger (OpenAPi), Symfony and NuxtJs for frontend.
@@ -15,15 +15,16 @@ Download and build the latest versions of the image
 Start docker-compose in detached mode
 - docker-compose up -d 
 
+# Urls
 FRONTEND: https://localhost:8443 or http://caddy
+
 REST API: http://caddy/docs
+
 GRAPHQL API: http://caddy/api/graphql
 
-TO ACCESS THE HOSTED DEMO:
+# TO ACCESS THE HOSTED DEMO:
 
-Add to your windows hosts: 
-
-51.254.125.26 caddy
+Add to your windows hosts: 51.254.125.26 caddy
 
 Access through: http://caddy
 
