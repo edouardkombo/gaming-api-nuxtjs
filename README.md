@@ -20,7 +20,11 @@ REST API: http://caddy/docs
 GRAPHQL API: http://caddy/api/graphql
 
 TO ACCESS THE HOSTED DEMO:
-Add to your windows hosts: caddy
+
+Add to your windows hosts: 
+
+51.254.125.26 caddy
+
 Access through: http://caddy
 
 
